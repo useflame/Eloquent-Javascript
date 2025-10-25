@@ -1,4 +1,4 @@
-# Chapter 3 — Exercises
+# Chapter 3
 
 ## Minimum
 The previous chapter introduced the standard function Math.min that returns its smallest argument. Define a function `min` that takes two arguments and returns their minimum.

@@ -1,3 +1,5 @@
+# Chapter 4
+
 ### The sum of a range
 Write `range(start, end, step?)` that returns an array from start to end inclusive. Add optional `step` (default 1); support negative steps. Write `sum(array)` that sums numbers. Example: `console.log(sum(range(1, 10))) // 55`, `range(1, 10, 2) // [1,3,5,7,9]`, `range(5, 2, -1) // [5,4,3,2]`.
 
